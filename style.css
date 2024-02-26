@@ -1,0 +1,39 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5rem;
+}
+
+.businessCard {
+    background-color: #83a2d3;
+    border: 2px solid #370ed1;
+    margin: 16px auto;
+    width: 400px;
+    padding: 20px;
+}
+
+.businessTitle {
+    background-color: #e1d4fb;
+    margin: 0;
+    text-transform: uppercase;
+    font-size: 20px;
+    text-align: center;
+    padding:10px;
+}
+
+.businessContent {
+    background-color: #e3f4ff;
+    padding: 10px;
+    margin: 20px 0;
+}
+
+
+.button {
+    background-color: #28a11d;
+    border: 1px solid #276300;
+    color: white;
+    text-transform:uppercase;
+    display: block;
+    margin: 0 auto;
+    font-weight: bold;
+    padding: 10px;
+}
